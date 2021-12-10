@@ -1,4 +1,4 @@
-module kit_golang
+module github.com/stong1994/kit_golang
 
 go 1.16
 
