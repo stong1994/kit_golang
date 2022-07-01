@@ -1,4 +1,4 @@
-package sstr
+package str
 
 import (
 	"github.com/google/uuid"

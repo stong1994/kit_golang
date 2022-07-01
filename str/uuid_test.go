@@ -1,4 +1,4 @@
-package sstr
+package str
 
 import (
 	"fmt"

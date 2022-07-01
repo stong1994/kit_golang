@@ -1,4 +1,4 @@
-package sweb
+package web
 
 import (
 	"errors"
